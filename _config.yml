@@ -1,5 +1,5 @@
 # Site Info
-title:              "123Useless Carrot"
+title:              "Useless Carrot"
 description:        "Struggling now"
 google_verify:       # Put your Google Verification here
 google_analytics:   # Put your Google Analytics code
@@ -14,6 +14,7 @@ twitter_username:
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /posts/:title # Post permalink
 timezone:           Asia/seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+url:                blog.uselesscarrot.com
 
 # Site Build
 highlighter:        pygments
