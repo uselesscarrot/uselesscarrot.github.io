@@ -1,7 +1,6 @@
 ---
 title: github에 기생하는 블로그
 updated: 2016-01-13
-category: F
 ---
 
 Github 계정에 기생하는 블로그를 만들었습니다.
