@@ -14,6 +14,7 @@ twitter_username:
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /posts/:title # Post permalink
 timezone:           Asia/seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+url:                http://blog.uselesscarrot.com
 
 
 # Site Build
