@@ -11,10 +11,10 @@ author_gravatar:    4279d491767572d122e7709f89e7ab00 # Gravatar md5 hash
 twitter_username:   
 
 # Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "http://blog.uselesscarrot.com" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /posts/:title # Post permalink
 timezone:           Asia/seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-url:                http://uselesscarrot.com
+url:                http://blog.uselesscarrot.com
 
 # Site Build
 highlighter:        pygments
