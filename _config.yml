@@ -14,11 +14,12 @@ twitter_username:
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /posts/:title # Post permalink
 timezone:           Asia/seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-url:                http://blog.uselesscarrot.com
+url:                http://uselesscarrot.com
 
 
 # Site Build
 highlighter:        pygments
+pygments: true
 #markdown:           redcarpet
 #redcarpet:
 #    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
