@@ -1,6 +1,6 @@
 ---
 title: JavaScript 함수 선언 방법
-updated: 2015-01-14
+updated: 2016-01-14
 ---
 
 {% highlight js %}
