@@ -4,6 +4,7 @@ updated: 2016-01-14
 ---
 
 {% highlight js %}
+
 ```
 var carrot = {
   useless : function(){
