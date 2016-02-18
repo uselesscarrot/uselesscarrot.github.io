@@ -2,5 +2,8 @@
 title: About
 ---
 
+국문학과 일본학을 전공했습니다.   
+게임을 좋아하고 언어와 함께하는 모든 읽고 쓰는 행위들을 좋아합니다.
 
-Please Wait. I'm Wandering.
+
+
