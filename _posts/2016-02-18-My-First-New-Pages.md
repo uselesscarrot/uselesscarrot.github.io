@@ -1,5 +1,5 @@
 ---
-title : 첫 개인과제 : League of Legends Free Rotation Champions 소개 페이지
+title : League of Legends Free Rotation Champions 소개 페이지 만들기
 updated : 2016-02-18
 ---
 
