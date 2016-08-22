@@ -46,7 +46,7 @@ $("a").greenify().addClass("greenified");
 
 ## Protecting the $ Alias and Adding Scope
 
-```$``` 변수는 JavaScript 라이브러리에서 굉장히 광범위하게 쓰입니다. jQuery와 다른 라이브리러를 같이 쓴다면, jQuery에서 ```$```를 쓰지 못하도록 ```jQuery.noConflict()```를 써주어야 합니다. 하지만 이럴 경우 ```$```는 ```jQuery``` 함수의 별칭이라는 가정으로 플러그인을 만들고 있으므로 우리 코드를 망가뜨리게 될겁니다. 다른 플러그인들과 잘 작동하게 하기 위해, 그리고 jQuery를 ```$```기호와 계속 쓰기 위해 우리는 우리 코드 안에 [IIFE(Immediately-Invoked Function Expression)([http://benalman.com/news/2010/11/immediately-invoked-function-expression/)를 넣어 ```$```를 파라미터명으로 정하고 ```jQuery``` 함수에 넘겨야 합니다.
+```$``` 변수는 JavaScript 라이브러리에서 굉장히 광범위하게 쓰입니다. jQuery와 다른 라이브리러를 같이 쓴다면, jQuery에서 ```$```를 쓰지 못하도록 ```jQuery.noConflict()```를 써주어야 합니다. 하지만 이럴 경우 ```$```는 ```jQuery``` 함수의 별칭이라는 가정으로 플러그인을 만들고 있으므로 우리 코드를 망가뜨리게 될겁니다. 다른 플러그인들과 잘 작동하게 하기 위해, 그리고 jQuery를 ```$```기호와 계속 쓰기 위해 우리는 우리 코드 안에 [IIFE(Immediately-Invoked Function Expression)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)를 넣어 ```$```를 파라미터명으로 정하고 ```jQuery``` 함수에 넘겨야 합니다.
 
 ```
 (function ($){
