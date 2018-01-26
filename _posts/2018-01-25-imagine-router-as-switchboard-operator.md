@@ -41,7 +41,7 @@ title: React Router가 교환원이라면?
 
 
 
-## 전화 또는 전신?...aka <BrowserRouter />
+## 전화 또는 전신?...aka \<BrowserRouter />
 
 전화기 만으로는 전화를 걸 수 없죠. 이와 비슷하게 네이티브와 웹 사이에도 올바른 라우터가 있어야만 합니다. 대부분의 웹앱들은 BrowserRouter를 임포팅하는 것으로 HTML5 브라우저들이 동작하게 합니다.
 
